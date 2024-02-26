@@ -13,8 +13,7 @@ function AboutCard() {
             <br />
             I am currently employed as a software developer at Juspay.
             <br />
-            I have completed Integrated MSc (IMSc) in Maths and Computing at BIT
-            Mesra.
+            I have completed Integrated MSc (IMSc) in Maths and Computing
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
@@ -34,7 +33,7 @@ function AboutCard() {
           <p style={{ color: "rgb(155 126 172)" }}>
             "Strive to build things that make a difference!"{" "}
           </p>
-          <footer className="blockquote-footer">Soumyajit</footer>
+          <footer className="blockquote-footer">Sarah Ben Atia</footer>
         </blockquote>
       </Card.Body>
     </Card>
